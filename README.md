@@ -1,8 +1,4 @@
 
-[TOC]
-
-# CS-algorithm_HK
-
 # PROJECT NAME
 
 基于压缩感知和密钥分发的光学图像加密处理
@@ -35,4 +31,4 @@
 
 #### Run
 
-- 运行 "encryption.m" 就可以执行从加密至解密全过程。图片被保存在encryptiondata目录下
+- 运行 "encryption.m" 就可以执行从加密至解密全过程。图片将被保存在encryptiondata目录下
