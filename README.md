@@ -32,3 +32,4 @@
 #### Run
 
 - 运行 "encryption.m" 就可以执行从加密至解密全过程。图片将被保存在encryptiondata目录下
+- 如果运行报错，请先创建空文件夹encryption
